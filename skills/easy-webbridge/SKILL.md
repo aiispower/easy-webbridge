@@ -105,6 +105,8 @@ EasyBR 是可选的兼容集成场景。每个多开环境保留独立 Cookie、
 
 如果仓库提供 Release/CRX，可从同一仓库的 Releases 页面下载；官方 Chrome、Edge 拦截外部 CRX 时，仍使用上面的 `extension/` 源码加载方式。安装后打开扩展设置页，看到“已连接”并能读到 `browserId`，才算连接完成。
 
+维护 EasyBR 的 GitHub 多项目发布配置、向多个仓库发布 Windows/macOS 下载包时，按 [多项目 GitHub 发布说明](https://gitee.com/moyudian/simplebrower/blob/master/doc/release/GITHUB-MULTIPROJECT.md) 操作。发布凭据只从该文档指定的私有配置读取，不写入 Skill、脚本、日志或公开仓库。
+
 1. Start or check the local bridge:
 
 ```bash
