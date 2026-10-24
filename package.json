@@ -4,7 +4,7 @@
   "description": "AI browser bridge for authenticated real Chromium browser sessions, including EasyBR multi-profiles.",
   "homepage": "https://www.ebrower.com/helperdoc/easy-webbridge.html",
   "bugs": {
-    "url": "https://github.com/xxjrq/easy-webbridge/issues"
+    "url": "https://github.com/huakaikanzhe-web/easy-webbridge/issues"
   },
   "type": "module",
   "private": false,
