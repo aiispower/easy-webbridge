@@ -22,7 +22,7 @@ tags:
   - 文件上传
   - CDP
 license: MIT
-repository: https://github.com/huakaikanzhe-web/easy-webbridge
+repository: https://github.com/aiispower/easy-webbridge
 homepage: https://www.ebrower.com/helperdoc/easy-webbridge.html
 icon: assets/icon-512.png
 self_test: node scripts/easy-webbridge.mjs status

@@ -11,6 +11,6 @@
 
 ## 使用
 
-先从 [GitHub](https://github.com/huakaikanzhe-web/easy-webbridge) 安装运行时和浏览器扩展；GitHub 连接不稳定时使用 [Gitee 备用镜像](https://gitee.com/xxjrq/easy-webbridge)。启动后让 Agent 列出在线浏览器，并明确提供目标 `browserId`。
+先从 [GitHub](https://github.com/aiispower/easy-webbridge) 安装运行时和浏览器扩展；GitHub 连接不稳定时使用 [Gitee 备用镜像](https://gitee.com/xxjrq/easy-webbridge)。启动后让 Agent 列出在线浏览器，并明确提供目标 `browserId`。
 
 完整安装和使用说明见 [Easy WebBridge 帮助中心](https://www.ebrower.com/helperdoc/easy-webbridge.html)。

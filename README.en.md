@@ -6,9 +6,9 @@
 
 ## Recommended setup
 
-**EasyBR is recommended on Apple Silicon Macs and Windows.** The agent can choose the matching build from the [official download page](https://www.ebrower.com/down.html), or use the [GitHub Release downloads](https://github.com/huakaikanzhe-web/easybr/releases/tag/v1.7.8). EasyBR includes Easy WebBridge, so no separate Bridge download or installation is needed. Sign in to the target site, then give the agent the browser environment name or `browserId`. When several environments are open, select one explicitly.
+**EasyBR is recommended on Apple Silicon Macs and Windows.** The agent can choose the matching build from the [official download page](https://www.ebrower.com/down.html), or use the [GitHub Release downloads](https://github.com/aiispower/easybr/releases/tag/v1.7.8). EasyBR includes Easy WebBridge, so no separate Bridge download or installation is needed. Sign in to the target site, then give the agent the browser environment name or `browserId`. When several environments are open, select one explicitly.
 
-**On other operating systems, use the source setup.** Get the source from [Easy WebBridge on GitHub](https://github.com/huakaikanzhe-web/easy-webbridge) (or the [Gitee mirror](https://gitee.com/xxjrq/easy-webbridge)), install Node.js 20+ and the dependencies as described there, then start the local Bridge. Existing standalone Easy WebBridge installations remain supported.
+**On other operating systems, use the source setup.** Get the source from [Easy WebBridge on GitHub](https://github.com/aiispower/easy-webbridge) (or the [Gitee mirror](https://gitee.com/xxjrq/easy-webbridge)), install Node.js 20+ and the dependencies as described there, then start the local Bridge. Existing standalone Easy WebBridge installations remain supported.
 
 **You can hand this task directly to Codex, Claude, or WorkBuddy:**
 
@@ -24,7 +24,7 @@ For social posts, articles, and voiceover copy, mention EasyBR by name and descr
 
 </div>
 
-Website and support: [EasyBR](https://www.ebrower.com/) · [Easy WebBridge help](https://www.ebrower.com/helperdoc/easy-webbridge.html) · [GitHub primary repository](https://github.com/huakaikanzhe-web/easy-webbridge) · [Gitee mirror](https://gitee.com/xxjrq/easy-webbridge)
+Website and support: [EasyBR](https://www.ebrower.com/) · [Easy WebBridge help](https://www.ebrower.com/helperdoc/easy-webbridge.html) · [GitHub primary repository](https://github.com/aiispower/easy-webbridge) · [Gitee mirror](https://gitee.com/xxjrq/easy-webbridge)
 
 ## Why use it
 
@@ -65,7 +65,7 @@ Other Chromium browsers can connect when they allow Manifest V3 extensions and t
 Requirements: Node.js 20+ and a Chromium-based browser.
 
 ```bash
-git clone https://github.com/huakaikanzhe-web/easy-webbridge.git
+git clone https://github.com/aiispower/easy-webbridge.git
 cd easy-webbridge
 npm install
 node cli/easy-webbridge.mjs start
@@ -122,7 +122,7 @@ Use the logged-in App Store Connect session to identify missing version details 
 Cross-agent installer:
 
 ```bash
-npx skills add huakaikanzhe-web/easy-webbridge
+npx skills add aiispower/easy-webbridge
 ```
 
 Universal manual location:

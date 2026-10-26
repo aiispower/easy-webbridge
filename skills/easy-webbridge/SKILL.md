@@ -97,7 +97,7 @@ EasyBR 是可选的兼容集成场景。每个多开环境保留独立 Cookie、
 
 扩展源码和图标都在公开仓库的 `extension/` 目录。GitHub 是主仓库，Gitee 是备用镜像；如果 GitHub 访问不稳定，可以从 Gitee 下载同一份源码：
 
-1. 优先从 <https://github.com/huakaikanzhe-web/easy-webbridge> 下载或克隆；备用地址是 <https://gitee.com/xxjrq/easy-webbridge>，也可以直接下载 <https://gitee.com/xxjrq/easy-webbridge/repository/archive/main.zip>。
+1. 优先从 <https://github.com/aiispower/easy-webbridge> 下载或克隆；备用地址是 <https://gitee.com/xxjrq/easy-webbridge>，也可以直接下载 <https://gitee.com/xxjrq/easy-webbridge/repository/archive/main.zip>。
 2. 解压下载的文件（如果下载的是 ZIP），找到里面的 `extension/` 文件夹。
 3. 在目标 Chrome、Edge、QQ 浏览器或 Chromium 中打开 `chrome://extensions`。
 4. 打开“开发者模式”，选择“加载未打包的扩展程序”，选仓库里的 `extension/` 目录。
